@@ -17,6 +17,7 @@
 - React.js (State, Context API)
 - Message-broker: RabbitMq
 - Microservices
+- Unit Tests
 - Databases: MongoDb and MySql
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgollo&count_private=true&show_icons=true&theme=radical) 
