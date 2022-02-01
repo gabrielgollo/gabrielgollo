@@ -1,7 +1,7 @@
 
 <div align="center">
     <img align="center" height="200" width="250" src="https://c.tenor.com/nPxAn9NBqfIAAAAM/beavis-computer.gif">
-    <img align="right" alt="Yusuke Urameshi and Puu" height="200" width="250" src="https://64.media.tumblr.com/tumblr_majpvcqpEk1qc254uo1_500.gif">
+    <img align="center" alt="Yusuke Urameshi and Puu" height="200" width="250" src="https://64.media.tumblr.com/tumblr_majpvcqpEk1qc254uo1_500.gif">
 </div>
 
 ---
