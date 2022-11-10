@@ -7,7 +7,7 @@
 ---
 ## Hi there!! I am Gabriel Gollo 👋😁
 - 🏫 I'm currently studying Automation and Control Eng.
-- 🔭 I’m currently working at Mundiale as Node.js Software Developer. 
+- 🔭 I’m currently working at Mundiale as Software Developer Node.js. 
 - 🌱 I’m currently learning Clean Code and Clean Architecture.
 
 ---
@@ -17,15 +17,15 @@
     <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ---
 ## Knowledges:
 - Algorithms and data structures
-- Typescript, Javascript, Python and a bitwise of C#
+- Typescript, Javascript, Python and Java
 - Next.js and React.js (State, Context API)
 - Message-broker: RabbitMq, KAFKA and SQS
 - Microservices
