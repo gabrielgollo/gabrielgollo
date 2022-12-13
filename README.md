@@ -7,7 +7,7 @@
 ---
 ## Hi there!! I am Gabriel Gollo 👋😁
 - 🏫 I'm currently studying Automation and Control Eng.
-- 🔭 I’m currently working at Mundiale as Software Developer Node.js. 
+- 🔭 I’m currently working as Software Developer Node.js. 
 - 🌱 I’m currently learning Clean Code and Clean Architecture.
 
 ---
