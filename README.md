@@ -34,20 +34,35 @@
 </div>
 
 ---
-## What I Know:
-- Algorithms and data structures
-- Javascript, TypeScript, C / C++, Java, C#, Python, Git, GitHub, GitLab
-- Next.js and React.js (State, Context API)
-- Pipelines: Gitlab CI/CD, Github Actions e Azure DevOps.
-- NoSQL: MongoDb, DynamoDb, Redis
-- SQL: PostgreSQL, MySQL, MariaDb.
-- Message brokers: RabbitMQ, SQS, Kafka.
-- AWS services: S3, SQS, Lambda, Secrets Manager, DynamoDb, API Gateway, EC2.
-- GCP service: Apigee Edge and Apigee X, BigQuery (consuming data).
-- Developed and maintained scalable backend services and microservices architecture.
-- Unit Tests, TDD and regression tests
-- Clean Code & Clean Architecture
-- POO & SOLID
+## Expertise
+
+### Programming & Scripting Languages
+- **Languages:** C, C++, Node.js (JavaScript / TypeScript), .NET C#, Python, Java
+- **Backend:** Nest.js, Express.js, Serverless Lambda (Node.js / Python), FastAPI (Python)
+- **Frontend:** React.js, Remix, Next.js (Frontend)
+
+### Software Architecture & Design
+- **Architectures:** Microservices, Monolithic, Event-Driven Architecture
+- **Principles:** Clean Code, Clean Architecture, SOLID, OOP (Object-Oriented Programming)
+- **Design Patterns:** Singleton, Factory, Observer, etc.
+
+### DevOps & Infrastructure
+- **Containers & Orchestration:** Docker
+- **CI/CD Pipelines:** GitLab CI/CD, GitHub Actions, Azure DevOps
+- **Cloud Platforms:** AWS (S3, SQS, Lambda, Secrets Manager, DynamoDB, API Gateway, EC2), GCP (Apigee Edge, Apigee X, BigQuery)
+
+### Databases & Storage
+- **SQL Databases:** PostgreSQL, MySQL, MariaDB
+- **NoSQL Databases:** MongoDB, DynamoDB, Redis
+- **Message Brokers:** RabbitMQ, SQS, Kafka
+- **Cloud Storage:** AWS S3
+
+### Software Development & Testing
+- **Testing Techniques:** Unit Testing, TDD (Test-Driven Development), Regression Testing
+- **Tools:** Jest, Mocha, NUnit, xUnit
+
+### Source Control & Collaboration
+- **Version Control:** Git, GitHub, GitLab
 ---
 
 <div align="center">
