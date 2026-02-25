@@ -5,7 +5,7 @@
 
 # <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp> I'm a senior software engineer. I have developed diverse solutions in backend using Java/Kotlin and Node.js. I've worked with many services of AWS Ecosystem. </samp>
+<samp> I'm a senior software engineer. I have developed diverse solutions in backend using Java & Kotlin and Node.js. I've worked with many services of AWS Ecosystem. </samp>
 
 <samp>I'm also a Control and Automation Engineer with some experience in eletronics and microcontrollers</samp>
 
@@ -15,6 +15,7 @@
 
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center" alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
