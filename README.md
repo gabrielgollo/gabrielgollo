@@ -13,7 +13,7 @@
 - 🏡&nbsp;<samp>I love being with my family and friends.</samp>
 - ✈️&nbsp;<samp>I love to travel and get to know new places and cultures.</samp>
 
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline"><br>
     <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -28,7 +28,7 @@
     <img align="center" alt="Redis" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
     <img align="center" alt="React.js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+</div> -->
 
 <!-- <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielgollo&count_private=true&show_icons=true&theme=radical" />
